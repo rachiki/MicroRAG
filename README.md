@@ -18,3 +18,9 @@ caching (based on distance?)
 Better structure
 to py script
 README improve
+
+optional logging
+
+bits and bytes vs cuda vs cpu etc
+
+language switching
